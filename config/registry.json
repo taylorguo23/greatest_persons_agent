@@ -1,0 +1,2605 @@
+{
+  "isaac_newton": {
+    "name": "Isaac Newton",
+    "domain": "01_physics_cosmology",
+    "archetype": "PrincipiaAxioms",
+    "summary": "Axiomatic mechanics, calculus of fluxions, and universal law deduction",
+    "tags": [
+      "physics",
+      "mechanics",
+      "calculus",
+      "axioms"
+    ],
+    "path": "personas/01_physics_cosmology/isaac_newton.md"
+  },
+  "albert_einstein": {
+    "name": "Albert Einstein",
+    "domain": "01_physics_cosmology",
+    "archetype": "ThoughtExperiment",
+    "summary": "Invariance principles, gedankenexperiments, and reference-frame symmetry",
+    "tags": [
+      "physics",
+      "relativity",
+      "symmetry",
+      "invariance"
+    ],
+    "path": "personas/01_physics_cosmology/albert_einstein.md"
+  },
+  "james_clerk_maxwell": {
+    "name": "James Clerk Maxwell",
+    "domain": "01_physics_cosmology",
+    "archetype": "UnifiedFields",
+    "summary": "Field unification, differential conservation equations, and cross-domain analogies",
+    "tags": [
+      "electromagnetism",
+      "fields",
+      "pde",
+      "unification"
+    ],
+    "path": "personas/01_physics_cosmology/james_clerk_maxwell.md"
+  },
+  "michael_faraday": {
+    "name": "Michael Faraday",
+    "domain": "01_physics_cosmology",
+    "archetype": "ExperimentalLines",
+    "summary": "Direct experimental visualization, systematic parameter sweeps, and physical intuition",
+    "tags": [
+      "experiment",
+      "hardware",
+      "induction",
+      "sensors"
+    ],
+    "path": "personas/01_physics_cosmology/michael_faraday.md"
+  },
+  "galileo_galilei": {
+    "name": "Galileo Galilei",
+    "domain": "01_physics_cosmology",
+    "archetype": "KinematicMeasure",
+    "summary": "Quantitative measurement, variable isolation, and falsification of dogma",
+    "tags": [
+      "kinematics",
+      "measurement",
+      "falsification",
+      "astronomy"
+    ],
+    "path": "personas/01_physics_cosmology/galileo_galilei.md"
+  },
+  "richard_feynman": {
+    "name": "Richard Feynman",
+    "domain": "01_physics_cosmology",
+    "archetype": "FirstPrinciples",
+    "summary": "Anti-cargo-cult verification, minimal toy-model reconstruction, and plain-language causal tracing",
+    "tags": [
+      "debug",
+      "verify",
+      "toy-model",
+      "first-principles",
+      "quantum"
+    ],
+    "path": "personas/01_physics_cosmology/richard_feynman.md"
+  },
+  "niels_bohr": {
+    "name": "Niels Bohr",
+    "domain": "01_physics_cosmology",
+    "archetype": "Complementarity",
+    "summary": "Complementarity analysis, correspondence limits, and paradox resolution",
+    "tags": [
+      "quantum",
+      "paradox",
+      "atomic",
+      "epistemology"
+    ],
+    "path": "personas/01_physics_cosmology/niels_bohr.md"
+  },
+  "max_planck": {
+    "name": "Max Planck",
+    "domain": "01_physics_cosmology",
+    "archetype": "QuantaDiscretization",
+    "summary": "Boundary-condition quantization and thermodynamic consistency checks",
+    "tags": [
+      "thermodynamics",
+      "quantization",
+      "radiation",
+      "constants"
+    ],
+    "path": "personas/01_physics_cosmology/max_planck.md"
+  },
+  "marie_curie": {
+    "name": "Marie Curie",
+    "domain": "01_physics_cosmology",
+    "archetype": "RadiometricIsolation",
+    "summary": "Trace signal isolation, quantitative assay purification, and empirical endurance",
+    "tags": [
+      "isolation",
+      "assay",
+      "chemistry",
+      "radiation"
+    ],
+    "path": "personas/01_physics_cosmology/marie_curie.md"
+  },
+  "erwin_schrodinger": {
+    "name": "Erwin Schrödinger",
+    "domain": "01_physics_cosmology",
+    "archetype": "WaveEvolution",
+    "summary": "Continuous state evolution, eigenvalue formulation, and biological-information synthesis",
+    "tags": [
+      "wave",
+      "eigenvalue",
+      "state",
+      "biophysics"
+    ],
+    "path": "personas/01_physics_cosmology/erwin_schrodinger.md"
+  },
+  "werner_heisenberg": {
+    "name": "Werner Heisenberg",
+    "domain": "01_physics_cosmology",
+    "archetype": "ObservableMatrices",
+    "summary": "Restricting models strictly to measurable observables and uncertainty trade-off bounds",
+    "tags": [
+      "matrix",
+      "observables",
+      "uncertainty",
+      "measurement"
+    ],
+    "path": "personas/01_physics_cosmology/werner_heisenberg.md"
+  },
+  "paul_dirac": {
+    "name": "Paul Dirac",
+    "domain": "01_physics_cosmology",
+    "archetype": "AlgebraicBeauty",
+    "summary": "Structural mathematical symmetry and predicting unseen states from equation completeness",
+    "tags": [
+      "symmetry",
+      "algebra",
+      "quantum",
+      "prediction"
+    ],
+    "path": "personas/01_physics_cosmology/paul_dirac.md"
+  },
+  "enrico_fermi": {
+    "name": "Enrico Fermi",
+    "domain": "01_physics_cosmology",
+    "archetype": "FermiEstimation",
+    "summary": "Order-of-magnitude back-of-the-envelope decomposition and rapid experimental validation",
+    "tags": [
+      "estimation",
+      "scaling",
+      "back-of-envelope",
+      "experiment"
+    ],
+    "path": "personas/01_physics_cosmology/enrico_fermi.md"
+  },
+  "ludwig_boltzmann": {
+    "name": "Ludwig Boltzmann",
+    "domain": "01_physics_cosmology",
+    "archetype": "StatisticalEnsemble",
+    "summary": "Microstate-to-macrostate aggregation and entropy-driven probabilistic modeling",
+    "tags": [
+      "entropy",
+      "statistics",
+      "thermodynamics",
+      "ensemble"
+    ],
+    "path": "personas/01_physics_cosmology/ludwig_boltzmann.md"
+  },
+  "christiaan_huygens": {
+    "name": "Christiaan Huygens",
+    "domain": "01_physics_cosmology",
+    "archetype": "WavefrontEnvelope",
+    "summary": "Secondary wavefront propagation and precision horological stabilization",
+    "tags": [
+      "optics",
+      "waves",
+      "clocks",
+      "oscillators"
+    ],
+    "path": "personas/01_physics_cosmology/christiaan_huygens.md"
+  },
+  "johannes_kepler": {
+    "name": "Johannes Kepler",
+    "domain": "01_physics_cosmology",
+    "archetype": "EmpiricalFitting",
+    "summary": "Refusing to ignore small residual errors until the true geometric law emerges",
+    "tags": [
+      "data-fitting",
+      "orbits",
+      "residuals",
+      "geometry"
+    ],
+    "path": "personas/01_physics_cosmology/johannes_kepler.md"
+  },
+  "nicolaus_copernicus": {
+    "name": "Nicolaus Copernicus",
+    "domain": "01_physics_cosmology",
+    "archetype": "FrameCenterShift",
+    "summary": "Eliminating ad-hoc epicycles by shifting the coordinate origin of the system",
+    "tags": [
+      "refactoring",
+      "coordinates",
+      "simplification",
+      "architecture"
+    ],
+    "path": "personas/01_physics_cosmology/nicolaus_copernicus.md"
+  },
+  "ernest_rutherford": {
+    "name": "Ernest Rutherford",
+    "domain": "01_physics_cosmology",
+    "archetype": "ScatteringProbe",
+    "summary": "Probing hidden internal structure via high-energy scattering experiments",
+    "tags": [
+      "probing",
+      "diagnostics",
+      "nuclear",
+      "experiment"
+    ],
+    "path": "personas/01_physics_cosmology/ernest_rutherford.md"
+  },
+  "s_chandrasekhar": {
+    "name": "S. Chandrasekhar",
+    "domain": "01_physics_cosmology",
+    "archetype": "DegeneracyLimits",
+    "summary": "Calculating exact stability thresholds where structural collapse becomes inevitable",
+    "tags": [
+      "limits",
+      "stability",
+      "thresholds",
+      "astrophysics"
+    ],
+    "path": "personas/01_physics_cosmology/s_chandrasekhar.md"
+  },
+  "chien_shiung_wu": {
+    "name": "Chien-Shiung Wu",
+    "domain": "01_physics_cosmology",
+    "archetype": "ParityFalsification",
+    "summary": "High-precision experimental design to test and break assumed symmetries",
+    "tags": [
+      "symmetry-breaking",
+      "precision",
+      "validation",
+      "cryogenics"
+    ],
+    "path": "personas/01_physics_cosmology/chien_shiung_wu.md"
+  },
+  "euclid": {
+    "name": "Euclid",
+    "domain": "02_mathematics_logic",
+    "archetype": "AxiomaticElements",
+    "summary": "Deductive proofs built from minimal definitions, postulates, and common notions",
+    "tags": [
+      "geometry",
+      "proof",
+      "axioms",
+      "logic"
+    ],
+    "path": "personas/02_mathematics_logic/euclid.md"
+  },
+  "archimedes": {
+    "name": "Archimedes",
+    "domain": "02_mathematics_logic",
+    "archetype": "MethodOfExhaustion",
+    "summary": "Mechanical leverage intuition combined with rigorous upper/lower bound exhaustion",
+    "tags": [
+      "bounds",
+      "calculus",
+      "mechanics",
+      "statics"
+    ],
+    "path": "personas/02_mathematics_logic/archimedes.md"
+  },
+  "carl_friedrich_gauss": {
+    "name": "Carl Friedrich Gauss",
+    "domain": "02_mathematics_logic",
+    "archetype": "LeastSquaresPrince",
+    "summary": "Least-squares error minimization, modular arithmetic, and intrinsic curvature",
+    "tags": [
+      "statistics",
+      "regression",
+      "number-theory",
+      "geometry"
+    ],
+    "path": "personas/02_mathematics_logic/carl_friedrich_gauss.md"
+  },
+  "leonhard_euler": {
+    "name": "Leonhard Euler",
+    "domain": "02_mathematics_logic",
+    "archetype": "GraphAndSeries",
+    "summary": "Graph-theoretic topology, infinite series manipulation, and unified mathematical notation",
+    "tags": [
+      "graphs",
+      "topology",
+      "series",
+      "dynamics"
+    ],
+    "path": "personas/02_mathematics_logic/leonhard_euler.md"
+  },
+  "alan_turing": {
+    "name": "Alan Turing",
+    "domain": "02_mathematics_logic",
+    "archetype": "UniversalComputation",
+    "summary": "State-machine reduction, decidability bounds, and algorithmic morphogenesis",
+    "tags": [
+      "computation",
+      "state-machine",
+      "cryptanalysis",
+      "ai"
+    ],
+    "path": "personas/02_mathematics_logic/alan_turing.md"
+  },
+  "kurt_godel": {
+    "name": "Kurt Gödel",
+    "domain": "02_mathematics_logic",
+    "archetype": "IncompletenessBounds",
+    "summary": "Self-referential encoding and identifying formal limits of axiomatic consistency",
+    "tags": [
+      "logic",
+      "incompleteness",
+      "formal-verification",
+      "limits"
+    ],
+    "path": "personas/02_mathematics_logic/kurt_godel.md"
+  },
+  "emmy_noether": {
+    "name": "Emmy Noether",
+    "domain": "02_mathematics_logic",
+    "archetype": "SymmetryConservation",
+    "summary": "Connecting continuous symmetries directly to conserved system invariants",
+    "tags": [
+      "invariants",
+      "symmetry",
+      "conservation",
+      "algebra"
+    ],
+    "path": "personas/02_mathematics_logic/emmy_noether.md"
+  },
+  "bernhard_riemann": {
+    "name": "Bernhard Riemann",
+    "domain": "02_mathematics_logic",
+    "archetype": "ManifoldGeometry",
+    "summary": "Multi-dimensional manifold metrics and analytic continuation",
+    "tags": [
+      "manifolds",
+      "tensors",
+      "complex-analysis",
+      "geometry"
+    ],
+    "path": "personas/02_mathematics_logic/bernhard_riemann.md"
+  },
+  "pierre_de_fermat": {
+    "name": "Pierre de Fermat",
+    "domain": "02_mathematics_logic",
+    "archetype": "PrincipleOfLeastTime",
+    "summary": "Variational extremum principles and method of infinite descent",
+    "tags": [
+      "optimization",
+      "variational",
+      "number-theory",
+      "optics"
+    ],
+    "path": "personas/02_mathematics_logic/pierre_de_fermat.md"
+  },
+  "blaise_pascal": {
+    "name": "Blaise Pascal",
+    "domain": "02_mathematics_logic",
+    "archetype": "ExpectedValueDecision",
+    "summary": "Probability trees, expected-value decision matrices, and mechanical calculation",
+    "tags": [
+      "probability",
+      "decision",
+      "risk",
+      "combinatorics"
+    ],
+    "path": "personas/02_mathematics_logic/blaise_pascal.md"
+  },
+  "gottfried_leibniz": {
+    "name": "Gottfried Wilhelm Leibniz",
+    "domain": "02_mathematics_logic",
+    "archetype": "BinaryCalculus",
+    "summary": "Symbolic operator design, binary arithmetic, and compositional logic",
+    "tags": [
+      "binary",
+      "dsl",
+      "symbolic",
+      "calculus"
+    ],
+    "path": "personas/02_mathematics_logic/gottfried_leibniz.md"
+  },
+  "rene_descartes": {
+    "name": "René Descartes",
+    "domain": "02_mathematics_logic",
+    "archetype": "CartesianCoordinates",
+    "summary": "Methodic doubt, decomposing problems into atomic parts, and algebraic geometry",
+    "tags": [
+      "coordinates",
+      "decomposition",
+      "epistemology",
+      "algebra"
+    ],
+    "path": "personas/02_mathematics_logic/rene_descartes.md"
+  },
+  "srinivasa_ramanujan": {
+    "name": "Srinivasa Ramanujan",
+    "domain": "02_mathematics_logic",
+    "archetype": "AsymptoticPartitions",
+    "summary": "High-precision asymptotic expansions, continued fractions, and modular identities",
+    "tags": [
+      "asymptotics",
+      "partitions",
+      "series",
+      "number-theory"
+    ],
+    "path": "personas/02_mathematics_logic/srinivasa_ramanujan.md"
+  },
+  "david_hilbert": {
+    "name": "David Hilbert",
+    "domain": "02_mathematics_logic",
+    "archetype": "FormalistSpaces",
+    "summary": "Infinite-dimensional inner-product spaces and foundational problem roadmapping",
+    "tags": [
+      "hilbert-space",
+      "formalism",
+      "roadmap",
+      "linear-algebra"
+    ],
+    "path": "personas/02_mathematics_logic/david_hilbert.md"
+  },
+  "henri_poincare": {
+    "name": "Henri Poincaré",
+    "domain": "02_mathematics_logic",
+    "archetype": "PhaseSpaceChaos",
+    "summary": "Qualitative phase-space topology, nonlinear sensitivity, and three-body dynamics",
+    "tags": [
+      "chaos",
+      "dynamical-systems",
+      "topology",
+      "nonlinear"
+    ],
+    "path": "personas/02_mathematics_logic/henri_poincare.md"
+  },
+  "al_khwarizmi": {
+    "name": "Al-Khwarizmi",
+    "domain": "02_mathematics_logic",
+    "archetype": "AlgorithmicBalancing",
+    "summary": "Step-by-step algorithmic reduction (al-jabr) and systematic equation balancing",
+    "tags": [
+      "algorithms",
+      "algebra",
+      "reduction",
+      "procedures"
+    ],
+    "path": "personas/02_mathematics_logic/al_khwarizmi.md"
+  },
+  "zu_chongzhi": {
+    "name": "Zu Chongzhi",
+    "domain": "02_mathematics_logic",
+    "archetype": "PolygonalPrecision",
+    "summary": "Iterative polygonal bounding and high-accuracy astronomical calendar harmonization",
+    "tags": [
+      "numerical-methods",
+      "precision",
+      "iteration",
+      "astronomy"
+    ],
+    "path": "personas/02_mathematics_logic/zu_chongzhi.md"
+  },
+  "liu_hui": {
+    "name": "Liu Hui",
+    "domain": "02_mathematics_logic",
+    "archetype": "NineChaptersDissection",
+    "summary": "Geometric dissection proofs, Gaussian elimination matrices, and surveying algorithms",
+    "tags": [
+      "linear-systems",
+      "geometry",
+      "algorithms",
+      "matrix"
+    ],
+    "path": "personas/02_mathematics_logic/liu_hui.md"
+  },
+  "ada_lovelace": {
+    "name": "Ada Lovelace",
+    "domain": "02_mathematics_logic",
+    "archetype": "SymbolicEngine",
+    "summary": "Separating abstract symbolic manipulation from numerical calculation and loop indexing",
+    "tags": [
+      "programming",
+      "symbolic-ai",
+      "loops",
+      "abstraction"
+    ],
+    "path": "personas/02_mathematics_logic/ada_lovelace.md"
+  },
+  "george_boole": {
+    "name": "George Boole",
+    "domain": "02_mathematics_logic",
+    "archetype": "BooleanLogic",
+    "summary": "Reducing logical propositions to algebraic 0/1 truth-table operations",
+    "tags": [
+      "boolean",
+      "logic-gates",
+      "circuits",
+      "conditionals"
+    ],
+    "path": "personas/02_mathematics_logic/george_boole.md"
+  },
+  "claude_shannon": {
+    "name": "Claude Shannon",
+    "domain": "03_computer_info_systems",
+    "archetype": "InformationEntropy",
+    "summary": "Problem reduction, boundary-case simplification, problem inversion, and signal-to-noise optimization",
+    "tags": [
+      "information-theory",
+      "compression",
+      "snr",
+      "schema",
+      "channel"
+    ],
+    "path": "personas/03_computer_info_systems/claude_shannon.md"
+  },
+  "john_von_neumann": {
+    "name": "John von Neumann",
+    "domain": "03_computer_info_systems",
+    "archetype": "StoredProgramGame",
+    "summary": "Stored-program architecture, fault-tolerant cellular automata, and minimax game theory",
+    "tags": [
+      "architecture",
+      "game-theory",
+      "monte-carlo",
+      "automata"
+    ],
+    "path": "personas/03_computer_info_systems/john_von_neumann.md"
+  },
+  "donald_knuth": {
+    "name": "Donald Knuth",
+    "domain": "03_computer_info_systems",
+    "archetype": "AlgorithmicAnalysis",
+    "summary": "Concrete algorithmic complexity analysis, literate programming, and premature-optimization guards",
+    "tags": [
+      "algorithms",
+      "profiling",
+      "complexity",
+      "literate-programming"
+    ],
+    "path": "personas/03_computer_info_systems/donald_knuth.md"
+  },
+  "edsger_dijkstra": {
+    "name": "Edsger Dijkstra",
+    "domain": "03_computer_info_systems",
+    "archetype": "StructuredCorrectness",
+    "summary": "Separation of concerns, shortest-path invariants, and correctness-by-construction",
+    "tags": [
+      "concurrency",
+      "correctness",
+      "graphs",
+      "structured-code"
+    ],
+    "path": "personas/03_computer_info_systems/edsger_dijkstra.md"
+  },
+  "grace_hopper": {
+    "name": "Grace Hopper",
+    "domain": "03_computer_info_systems",
+    "archetype": "CompilerAbstraction",
+    "summary": "Translating human-readable domain specs into machine instructions via modular compilers",
+    "tags": [
+      "compilers",
+      "debugging",
+      "standards",
+      "cobol"
+    ],
+    "path": "personas/03_computer_info_systems/grace_hopper.md"
+  },
+  "norbert_wiener": {
+    "name": "Norbert Wiener",
+    "domain": "03_computer_info_systems",
+    "archetype": "CyberneticFeedback",
+    "summary": "Negative-feedback stabilization, Wiener filtering, and human-machine homeostasis",
+    "tags": [
+      "cybernetics",
+      "filtering",
+      "feedback",
+      "noise"
+    ],
+    "path": "personas/03_computer_info_systems/norbert_wiener.md"
+  },
+  "qian_xuesen": {
+    "name": "Qian Xuesen",
+    "domain": "03_computer_info_systems",
+    "archetype": "EngineeringCybernetics",
+    "summary": "Systems-of-systems architecture, active disturbance rejection, and closed-loop control",
+    "tags": [
+      "control-loop",
+      "systems-engineering",
+      "cybernetics",
+      "aerospace"
+    ],
+    "path": "personas/03_computer_info_systems/qian_xuesen.md"
+  },
+  "dennis_ritchie": {
+    "name": "Dennis Ritchie",
+    "domain": "03_computer_info_systems",
+    "archetype": "MinimalSystemsC",
+    "summary": "Portable low-level systems abstraction and clean, orthogonal language primitives",
+    "tags": [
+      "c",
+      "unix",
+      "systems",
+      "kernels"
+    ],
+    "path": "personas/03_computer_info_systems/dennis_ritchie.md"
+  },
+  "ken_thompson": {
+    "name": "Ken Thompson",
+    "domain": "03_computer_info_systems",
+    "archetype": "UnixPhilosophy",
+    "summary": "Do one thing well, everything-is-a-file pipelines, and minimal trusted computing bases",
+    "tags": [
+      "unix",
+      "pipes",
+      "security",
+      "minimalism"
+    ],
+    "path": "personas/03_computer_info_systems/ken_thompson.md"
+  },
+  "linus_torvalds": {
+    "name": "Linus Torvalds",
+    "domain": "03_computer_info_systems",
+    "archetype": "GoodTastePointers",
+    "summary": "Eliminating special-case branches via clean data structures ('good taste' in code) and distributed Git workflows",
+    "tags": [
+      "kernel",
+      "git",
+      "data-structures",
+      "open-source"
+    ],
+    "path": "personas/03_computer_info_systems/linus_torvalds.md"
+  },
+  "tim_berners_lee": {
+    "name": "Tim Berners-Lee",
+    "domain": "03_computer_info_systems",
+    "archetype": "DecentralizedHypertext",
+    "summary": "Universal URI addressing, stateless HTTP verbs, and decentralized linked protocols",
+    "tags": [
+      "web",
+      "protocols",
+      "rest",
+      "decentralization"
+    ],
+    "path": "personas/03_computer_info_systems/tim_berners_lee.md"
+  },
+  "vint_cerf": {
+    "name": "Vint Cerf",
+    "domain": "03_computer_info_systems",
+    "archetype": "EndToEndPacket",
+    "summary": "Packet-switched layering and end-to-end network resilience across heterogeneous links",
+    "tags": [
+      "tcp-ip",
+      "networking",
+      "packets",
+      "resilience"
+    ],
+    "path": "personas/03_computer_info_systems/vint_cerf.md"
+  },
+  "barbara_liskov": {
+    "name": "Barbara Liskov",
+    "domain": "03_computer_info_systems",
+    "archetype": "BehavioralSubtyping",
+    "summary": "Data abstraction barriers, Liskov substitution contracts, and Byzantine fault tolerance",
+    "tags": [
+      "oop",
+      "distributed-systems",
+      "contracts",
+      "bft"
+    ],
+    "path": "personas/03_computer_info_systems/barbara_liskov.md"
+  },
+  "leslie_lamport": {
+    "name": "Leslie Lamport",
+    "domain": "03_computer_info_systems",
+    "archetype": "LogicalClocksTLA",
+    "summary": "Causal ordering without synchronized clocks, Paxos consensus, and TLA+ state-machine specs",
+    "tags": [
+      "consensus",
+      "distributed",
+      "tla",
+      "clocks"
+    ],
+    "path": "personas/03_computer_info_systems/leslie_lamport.md"
+  },
+  "john_mccarthy": {
+    "name": "John McCarthy",
+    "domain": "03_computer_info_systems",
+    "archetype": "SymbolicLisp",
+    "summary": "Homoiconic code-as-data recursion, garbage collection, and time-sharing orchestration",
+    "tags": [
+      "lisp",
+      "ai",
+      "recursion",
+      "symbolic"
+    ],
+    "path": "personas/03_computer_info_systems/john_mccarthy.md"
+  },
+  "marvin_minsky": {
+    "name": "Marvin Minsky",
+    "domain": "03_computer_info_systems",
+    "archetype": "SocietyOfMind",
+    "summary": "Combining simple heterogeneous sub-agents and frame representations into cognitive systems",
+    "tags": [
+      "multi-agent",
+      "frames",
+      "cognitive",
+      "ai"
+    ],
+    "path": "personas/03_computer_info_systems/marvin_minsky.md"
+  },
+  "judea_pearl": {
+    "name": "Judea Pearl",
+    "domain": "03_computer_info_systems",
+    "archetype": "CausalLadder",
+    "summary": "Do-calculus interventions, counterfactual graphs, and separating correlation from causation",
+    "tags": [
+      "causality",
+      "bayesian",
+      "counterfactuals",
+      "graphs"
+    ],
+    "path": "personas/03_computer_info_systems/judea_pearl.md"
+  },
+  "lotfi_zadeh": {
+    "name": "Lotfi Zadeh",
+    "domain": "03_computer_info_systems",
+    "archetype": "FuzzyGradation",
+    "summary": "Graded membership functions for control systems operating under imprecise linguistic rules",
+    "tags": [
+      "fuzzy-logic",
+      "control",
+      "uncertainty",
+      "thresholds"
+    ],
+    "path": "personas/03_computer_info_systems/lotfi_zadeh.md"
+  },
+  "richard_hamming": {
+    "name": "Richard Hamming",
+    "domain": "03_computer_info_systems",
+    "archetype": "ErrorCorrectingResearch",
+    "summary": "Parity error correction and focusing strictly on the most important problems in your field",
+    "tags": [
+      "error-correction",
+      "coding-theory",
+      "research-strategy",
+      "signal"
+    ],
+    "path": "personas/03_computer_info_systems/richard_hamming.md"
+  },
+  "ivan_sutherland": {
+    "name": "Ivan Sutherland",
+    "domain": "03_computer_info_systems",
+    "archetype": "SketchpadConstraint",
+    "summary": "Interactive constraint-based direct manipulation and hardware-accelerated visual pipelines",
+    "tags": [
+      "graphics",
+      "cad",
+      "ui",
+      "constraints"
+    ],
+    "path": "personas/03_computer_info_systems/ivan_sutherland.md"
+  },
+  "leonardo_da_vinci": {
+    "name": "Leonardo da Vinci",
+    "domain": "04_engineering_inventors",
+    "archetype": "AnatomicalMechanics",
+    "summary": "Cross-pollinating biomechanics, fluid vortices, and exploded mechanical schematics",
+    "tags": [
+      "design",
+      "biomechanics",
+      "prototyping",
+      "visualization"
+    ],
+    "path": "personas/04_engineering_inventors/leonardo_da_vinci.md"
+  },
+  "nikola_tesla": {
+    "name": "Nikola Tesla",
+    "domain": "04_engineering_inventors",
+    "archetype": "ResonantPolyphase",
+    "summary": "Rotating magnetic fields, resonant impedance matching, and complete mental simulation",
+    "tags": [
+      "ac-power",
+      "resonance",
+      "electromagnetics",
+      "wireless"
+    ],
+    "path": "personas/04_engineering_inventors/nikola_tesla.md"
+  },
+  "james_watt": {
+    "name": "James Watt",
+    "domain": "04_engineering_inventors",
+    "archetype": "SeparateCondenser",
+    "summary": "Isolating thermal inefficiencies via separate condensers and centrifugal flyball governors",
+    "tags": [
+      "thermodynamics",
+      "efficiency",
+      "governor",
+      "steam"
+    ],
+    "path": "personas/04_engineering_inventors/james_watt.md"
+  },
+  "zhang_heng": {
+    "name": "Zhang Heng",
+    "domain": "04_engineering_inventors",
+    "archetype": "InstrumentTheInvisible",
+    "summary": "Transducing unobservable phenomena into logged mechanical signals calibrated against real events",
+    "tags": [
+      "sensors",
+      "observability",
+      "telemetry",
+      "calibration"
+    ],
+    "path": "personas/04_engineering_inventors/zhang_heng.md"
+  },
+  "kelly_johnson": {
+    "name": "Kelly Johnson",
+    "domain": "04_engineering_inventors",
+    "archetype": "SkunkWorksLean",
+    "summary": "Subtractive engineering, requirement interrogation, small autonomous teams, and fast cycle time",
+    "tags": [
+      "mvp",
+      "lean",
+      "skunkworks",
+      "hardware",
+      "iteration"
+    ],
+    "path": "personas/04_engineering_inventors/kelly_johnson.md"
+  },
+  "thomas_edison": {
+    "name": "Thomas Edison",
+    "domain": "04_engineering_inventors",
+    "archetype": "SystematicInventionLab",
+    "summary": "High-throughput empirical material screening and end-to-end commercial grid integration",
+    "tags": [
+      "r-and-d",
+      "screening",
+      "prototyping",
+      "systems"
+    ],
+    "path": "personas/04_engineering_inventors/thomas_edison.md"
+  },
+  "wright_brothers": {
+    "name": "Wright Brothers",
+    "domain": "04_engineering_inventors",
+    "archetype": "WindTunnelControl",
+    "summary": "Building custom wind tunnels to correct flawed textbook tables and solving 3-axis control first",
+    "tags": [
+      "control",
+      "wind-tunnel",
+      "testing",
+      "aerodynamics"
+    ],
+    "path": "personas/04_engineering_inventors/wright_brothers.md"
+  },
+  "guglielmo_marconi": {
+    "name": "Guglielmo Marconi",
+    "domain": "04_engineering_inventors",
+    "archetype": "LongHaulPropagation",
+    "summary": "Empirical ground/sky-wave link testing beyond theoretical horizon limits",
+    "tags": [
+      "rf",
+      "antennas",
+      "communications",
+      "field-test"
+    ],
+    "path": "personas/04_engineering_inventors/guglielmo_marconi.md"
+  },
+  "alexander_graham_bell": {
+    "name": "Alexander Graham Bell",
+    "domain": "04_engineering_inventors",
+    "archetype": "AcousticTransduction",
+    "summary": "Continuous undulating current transduction for high-fidelity acoustic/optical signaling",
+    "tags": [
+      "transducers",
+      "acoustics",
+      "photophone",
+      "signal"
+    ],
+    "path": "personas/04_engineering_inventors/alexander_graham_bell.md"
+  },
+  "isambard_brunel": {
+    "name": "Isambard Kingdom Brunel",
+    "domain": "04_engineering_inventors",
+    "archetype": "IntegratedCivilScale",
+    "summary": "End-to-end infrastructure scaling across tunnels, bridges, railways, and ocean steamships",
+    "tags": [
+      "infrastructure",
+      "structural",
+      "scaling",
+      "civil"
+    ],
+    "path": "personas/04_engineering_inventors/isambard_brunel.md"
+  },
+  "gustave_eiffel": {
+    "name": "Gustave Eiffel",
+    "domain": "04_engineering_inventors",
+    "archetype": "WindTrussLattice",
+    "summary": "Aerodynamic load profiling and lightweight wrought-iron open lattice trusses",
+    "tags": [
+      "structures",
+      "aerodynamics",
+      "materials",
+      "truss"
+    ],
+    "path": "personas/04_engineering_inventors/gustave_eiffel.md"
+  },
+  "bi_sheng": {
+    "name": "Bi Sheng",
+    "domain": "04_engineering_inventors",
+    "archetype": "MovableTypeModularity",
+    "summary": "Replacing monolithic carving with reusable, indexed, modular clay/metal components",
+    "tags": [
+      "modularity",
+      "reuse",
+      "publishing",
+      "manufacturing"
+    ],
+    "path": "personas/04_engineering_inventors/bi_sheng.md"
+  },
+  "cai_lun": {
+    "name": "Cai Lun",
+    "domain": "04_engineering_inventors",
+    "archetype": "FiberSubstrate",
+    "summary": "Standardizing low-cost, scalable composite fiber processing for universal information storage",
+    "tags": [
+      "materials",
+      "process-engineering",
+      "scaling",
+      "manufacturing"
+    ],
+    "path": "personas/04_engineering_inventors/cai_lun.md"
+  },
+  "li_bing": {
+    "name": "Li Bing",
+    "domain": "04_engineering_inventors",
+    "archetype": "DujiangyanFlow",
+    "summary": "Dividing and channeling natural force gradients without high-stress rigid dams",
+    "tags": [
+      "hydraulics",
+      "resilience",
+      "load-balancing",
+      "flow"
+    ],
+    "path": "personas/04_engineering_inventors/li_bing.md"
+  },
+  "ma_jun": {
+    "name": "Ma Jun",
+    "domain": "04_engineering_inventors",
+    "archetype": "DifferentialGear",
+    "summary": "Mechanical closed-loop directional tracking via differential gear trains",
+    "tags": [
+      "gears",
+      "robotics",
+      "navigation",
+      "mechanisms"
+    ],
+    "path": "personas/04_engineering_inventors/ma_jun.md"
+  },
+  "lu_ban": {
+    "name": "Lu Ban",
+    "domain": "04_engineering_inventors",
+    "archetype": "MortiseAndTenon",
+    "summary": "Self-locking structural joints (mortise and tenon) requiring zero external fasteners",
+    "tags": [
+      "joinery",
+      "structural",
+      "modular-hardware",
+      "craft"
+    ],
+    "path": "personas/04_engineering_inventors/lu_ban.md"
+  },
+  "charles_babbage": {
+    "name": "Charles Babbage",
+    "domain": "04_engineering_inventors",
+    "archetype": "AnalyticalMillStore",
+    "summary": "Separating the memory Store from the processing Mill with punched-card operation control",
+    "tags": [
+      "computer-architecture",
+      "automation",
+      "mechanical",
+      "precision"
+    ],
+    "path": "personas/04_engineering_inventors/charles_babbage.md"
+  },
+  "karl_benz": {
+    "name": "Karl Benz",
+    "domain": "04_engineering_inventors",
+    "archetype": "IntegratedPowertrain",
+    "summary": "Designing the chassis, ignition, carburetor, and differential as a single holistic vehicle",
+    "tags": [
+      "automotive",
+      "integration",
+      "powertrain",
+      "mechanical"
+    ],
+    "path": "personas/04_engineering_inventors/karl_benz.md"
+  },
+  "robert_goddard": {
+    "name": "Robert Goddard",
+    "domain": "04_engineering_inventors",
+    "archetype": "LiquidGimbalThruster",
+    "summary": "Liquid-propellant staged propulsion, gyroscopic gimbal stabilization, and de Laval nozzles",
+    "tags": [
+      "propulsion",
+      "rocketry",
+      "guidance",
+      "fluid-dynamics"
+    ],
+    "path": "personas/04_engineering_inventors/robert_goddard.md"
+  },
+  "morris_chang": {
+    "name": "Morris Chang",
+    "domain": "04_engineering_inventors",
+    "archetype": "PurePlayFoundry",
+    "summary": "Decoupling fabless chip architecture from standardized, ultra-high-yield wafer manufacturing",
+    "tags": [
+      "semiconductors",
+      "cmos",
+      "foundry",
+      "supply-chain"
+    ],
+    "path": "personas/04_engineering_inventors/morris_chang.md"
+  },
+  "antoine_lavoisier": {
+    "name": "Antoine Lavoisier",
+    "domain": "05_chemistry_materials",
+    "archetype": "MassConservationBalance",
+    "summary": "Strict gravimetric mass balance across closed chemical transformations",
+    "tags": [
+      "stoichiometry",
+      "conservation",
+      "quantitative",
+      "chemistry"
+    ],
+    "path": "personas/05_chemistry_materials/antoine_lavoisier.md"
+  },
+  "dmitri_mendeleev": {
+    "name": "Dmitri Mendeleev",
+    "domain": "05_chemistry_materials",
+    "archetype": "PeriodicGapPrediction",
+    "summary": "Organizing messy elements by periodic properties to predict the exact traits of missing nodes",
+    "tags": [
+      "taxonomy",
+      "periodic-table",
+      "prediction",
+      "materials"
+    ],
+    "path": "personas/05_chemistry_materials/dmitri_mendeleev.md"
+  },
+  "linus_pauling": {
+    "name": "Linus Pauling",
+    "domain": "05_chemistry_materials",
+    "archetype": "OrbitalHybridization",
+    "summary": "Valence bond hybridization, electronegativity scaling, and alpha-helix structural folding",
+    "tags": [
+      "bonding",
+      "crystallography",
+      "proteins",
+      "quantum-chemistry"
+    ],
+    "path": "personas/05_chemistry_materials/linus_pauling.md"
+  },
+  "robert_boyle": {
+    "name": "Robert Boyle",
+    "domain": "05_chemistry_materials",
+    "archetype": "CorpuscularVacuum",
+    "summary": "Controlled vacuum-pump experiments and reproducible open laboratory protocols",
+    "tags": [
+      "gases",
+      "reproducibility",
+      "pressure",
+      "experiment"
+    ],
+    "path": "personas/05_chemistry_materials/robert_boyle.md"
+  },
+  "jons_berzelius": {
+    "name": "Jöns Jacob Berzelius",
+    "domain": "05_chemistry_materials",
+    "archetype": "StoichiometricNotation",
+    "summary": "Precise atomic weight determinations, catalysis identification, and symbolic chemical formulas",
+    "tags": [
+      "catalysis",
+      "stoichiometry",
+      "notation",
+      "electrochemistry"
+    ],
+    "path": "personas/05_chemistry_materials/jons_berzelius.md"
+  },
+  "friedrich_wohler": {
+    "name": "Friedrich Wöhler",
+    "domain": "05_chemistry_materials",
+    "archetype": "AbioticSynthesis",
+    "summary": "Precursor synthesis bridging inorganic precursors to complex functional organic structures",
+    "tags": [
+      "synthesis",
+      "precursors",
+      "isomerism",
+      "chemistry"
+    ],
+    "path": "personas/05_chemistry_materials/friedrich_wohler.md"
+  },
+  "justus_von_liebig": {
+    "name": "Justus von Liebig",
+    "domain": "05_chemistry_materials",
+    "archetype": "LawOfTheMinimum",
+    "summary": "Identifying the single rate-limiting nutrient/precursor bottleneck governing total yield",
+    "tags": [
+      "bottleneck",
+      "yield",
+      "analytical-chemistry",
+      "optimization"
+    ],
+    "path": "personas/05_chemistry_materials/justus_von_liebig.md"
+  },
+  "svante_arrhenius": {
+    "name": "Svante Arrhenius",
+    "domain": "05_chemistry_materials",
+    "archetype": "ActivationEnergyRate",
+    "summary": "Exponential temperature dependence of reaction rates ($k = A e^{-E_a/RT}$) and ionic dissociation",
+    "tags": [
+      "kinetics",
+      "activation-energy",
+      "electrolytes",
+      "climate"
+    ],
+    "path": "personas/05_chemistry_materials/svante_arrhenius.md"
+  },
+  "josiah_willard_gibbs": {
+    "name": "Josiah Willard Gibbs",
+    "domain": "05_chemistry_materials",
+    "archetype": "PhaseRuleEquilibrium",
+    "summary": "Chemical potential minimization, free energy ($\\Delta G$), and multi-phase degrees of freedom",
+    "tags": [
+      "thermodynamics",
+      "phase-diagrams",
+      "equilibrium",
+      "statistical-mechanics"
+    ],
+    "path": "personas/05_chemistry_materials/josiah_willard_gibbs.md"
+  },
+  "fritz_haber": {
+    "name": "Fritz Haber",
+    "domain": "05_chemistry_materials",
+    "archetype": "HighPressureCatalysis",
+    "summary": "High-pressure thermodynamic shifting paired with continuous recycle loops",
+    "tags": [
+      "catalysis",
+      "chemical-engineering",
+      "equilibrium",
+      "process"
+    ],
+    "path": "personas/05_chemistry_materials/fritz_haber.md"
+  },
+  "dorothy_hodgkin": {
+    "name": "Dorothy Hodgkin",
+    "domain": "05_chemistry_materials",
+    "archetype": "XRayStructure",
+    "summary": "3D electron-density reconstruction of complex biomolecules via X-ray diffraction",
+    "tags": [
+      "crystallography",
+      "diffraction",
+      "imaging",
+      "structure"
+    ],
+    "path": "personas/05_chemistry_materials/dorothy_hodgkin.md"
+  },
+  "gilbert_n_lewis": {
+    "name": "Gilbert N. Lewis",
+    "domain": "05_chemistry_materials",
+    "archetype": "ElectronPairDonor",
+    "summary": "Covalent electron-pair sharing, Lewis acid/base donor-acceptor models, and photon kinetics",
+    "tags": [
+      "ligands",
+      "surface-passivation",
+      "acids-bases",
+      "photochemistry"
+    ],
+    "path": "personas/05_chemistry_materials/gilbert_n_lewis.md"
+  },
+  "humphry_davy": {
+    "name": "Humphry Davy",
+    "domain": "05_chemistry_materials",
+    "archetype": "ElectrolyticIsolation",
+    "summary": "Using high-voltage voltaic piles to cleave strongly bound salts into pure elements",
+    "tags": [
+      "electrochemistry",
+      "isolation",
+      "alkali",
+      "safety-lamp"
+    ],
+    "path": "personas/05_chemistry_materials/humphry_davy.md"
+  },
+  "michael_polanyi": {
+    "name": "Michael Polanyi",
+    "domain": "05_chemistry_materials",
+    "archetype": "PotentialEnergySurface",
+    "summary": "Transition-state potential energy surfaces and codifying tacit laboratory know-how",
+    "tags": [
+      "kinetics",
+      "tacit-knowledge",
+      "surfaces",
+      "transition-state"
+    ],
+    "path": "personas/05_chemistry_materials/michael_polanyi.md"
+  },
+  "glenn_seaborg": {
+    "name": "Glenn T. Seaborg",
+    "domain": "05_chemistry_materials",
+    "archetype": "ActinideTransmutation",
+    "summary": "Heavy-ion bombardment synthesis and ultramicrochemical separation",
+    "tags": [
+      "nuclear-chemistry",
+      "synthesis",
+      "separation",
+      "isotopes"
+    ],
+    "path": "personas/05_chemistry_materials/glenn_seaborg.md"
+  },
+  "ahmed_zewail": {
+    "name": "Ahmed Zewail",
+    "domain": "05_chemistry_materials",
+    "archetype": "FemtochemistryPumpProbe",
+    "summary": "Ultrafast pump-probe laser spectroscopy to capture transition states in real time",
+    "tags": [
+      "ultrafast",
+      "pump-probe",
+      "transient-absorption",
+      "spectroscopy"
+    ],
+    "path": "personas/05_chemistry_materials/ahmed_zewail.md"
+  },
+  "john_dalton": {
+    "name": "John Dalton",
+    "domain": "05_chemistry_materials",
+    "archetype": "MultipleProportions",
+    "summary": "Whole-number atomic combinations and partial-pressure gas mixtures",
+    "tags": [
+      "atomic-theory",
+      "proportions",
+      "gases",
+      "modeling"
+    ],
+    "path": "personas/05_chemistry_materials/john_dalton.md"
+  },
+  "amedeo_avogadro": {
+    "name": "Amedeo Avogadro",
+    "domain": "05_chemistry_materials",
+    "archetype": "MolarScaling",
+    "summary": "Distinguishing elementary atoms from polyatomic molecules to bridge micro and macro scales",
+    "tags": [
+      "scaling",
+      "molar",
+      "gases",
+      "stoichiometry"
+    ],
+    "path": "personas/05_chemistry_materials/amedeo_avogadro.md"
+  },
+  "alfred_nobel": {
+    "name": "Alfred Nobel",
+    "domain": "05_chemistry_materials",
+    "archetype": "StabilizedEnergetics",
+    "summary": "Taming volatile high-energy compounds via inert porous matrix stabilization",
+    "tags": [
+      "stabilization",
+      "formulation",
+      "materials",
+      "safety"
+    ],
+    "path": "personas/05_chemistry_materials/alfred_nobel.md"
+  },
+  "hou_debang": {
+    "name": "Hou Debang",
+    "domain": "05_chemistry_materials",
+    "archetype": "ClosedLoopProcess",
+    "summary": "Coupling dual industrial synthesis loops to eliminate waste byproducts and maximize atom economy",
+    "tags": [
+      "process-integration",
+      "green-chemistry",
+      "manufacturing",
+      "yield"
+    ],
+    "path": "personas/05_chemistry_materials/hou_debang.md"
+  },
+  "hippocrates": {
+    "name": "Hippocrates",
+    "domain": "06_biology_medicine",
+    "archetype": "ClinicalPrognosis",
+    "summary": "Systematic bedside longitudinal observation, environmental correlation, and 'first do no harm'",
+    "tags": [
+      "clinical",
+      "observation",
+      "prognosis",
+      "safety"
+    ],
+    "path": "personas/06_biology_medicine/hippocrates.md"
+  },
+  "zhang_zhongjing": {
+    "name": "Zhang Zhongjing",
+    "domain": "06_biology_medicine",
+    "archetype": "PatternDifferentiation",
+    "summary": "Six-stage syndrome differentiation (Bian Zheng) before selecting modular interventions",
+    "tags": [
+      "diagnostics",
+      "triage",
+      "state-classification",
+      "modular-therapy"
+    ],
+    "path": "personas/06_biology_medicine/zhang_zhongjing.md"
+  },
+  "charles_darwin": {
+    "name": "Charles Darwin",
+    "domain": "06_biology_medicine",
+    "archetype": "NaturalSelection",
+    "summary": "Population variation, selective environmental pressure, and phylogenetic branching trees",
+    "tags": [
+      "evolution",
+      "adaptation",
+      "selection",
+      "taxonomy"
+    ],
+    "path": "personas/06_biology_medicine/charles_darwin.md"
+  },
+  "louis_pasteur": {
+    "name": "Louis Pasteur",
+    "domain": "06_biology_medicine",
+    "archetype": "GermSterilization",
+    "summary": "Swan-neck control experiments to rule out contamination and attenuated immunization",
+    "tags": [
+      "contamination-control",
+      "microbiology",
+      "controls",
+      "prevention"
+    ],
+    "path": "personas/06_biology_medicine/louis_pasteur.md"
+  },
+  "gregor_mendel": {
+    "name": "Gregor Mendel",
+    "domain": "06_biology_medicine",
+    "archetype": "DiscreteSegregation",
+    "summary": "Large-sample statistical ratios revealing discrete hidden hereditary factors",
+    "tags": [
+      "genetics",
+      "combinatorics",
+      "experiments",
+      "ratios"
+    ],
+    "path": "personas/06_biology_medicine/gregor_mendel.md"
+  },
+  "claude_bernard": {
+    "name": "Claude Bernard",
+    "domain": "06_biology_medicine",
+    "archetype": "MilieuInterieur",
+    "summary": "Internal homeostasis regulation and tightly controlled vivisection/physiological baselines",
+    "tags": [
+      "homeostasis",
+      "physiology",
+      "control-systems",
+      "experimental-medicine"
+    ],
+    "path": "personas/06_biology_medicine/claude_bernard.md"
+  },
+  "william_harvey": {
+    "name": "William Harvey",
+    "domain": "06_biology_medicine",
+    "archetype": "ClosedLoopCirculation",
+    "summary": "Quantitative flow-rate conservation proving closed-circuit vascular circulation",
+    "tags": [
+      "fluid-flow",
+      "closed-loop",
+      "conservation",
+      "physiology"
+    ],
+    "path": "personas/06_biology_medicine/william_harvey.md"
+  },
+  "andreas_vesalius": {
+    "name": "Andreas Vesalius",
+    "domain": "06_biology_medicine",
+    "archetype": "DirectDissection",
+    "summary": "Replacing inherited textbook authority with direct hands-on structural inspection",
+    "tags": [
+      "anatomy",
+      "inspection",
+      "verification",
+      "structure"
+    ],
+    "path": "personas/06_biology_medicine/andreas_vesalius.md"
+  },
+  "ibn_sina": {
+    "name": "Ibn Sina (Avicenna)",
+    "domain": "06_biology_medicine",
+    "archetype": "CanonClinicalTrials",
+    "summary": "Seven rules for controlled drug testing and encyclopedic symptom cross-indexing",
+    "tags": [
+      "clinical-trials",
+      "pharmacology",
+      "taxonomy",
+      "diagnostics"
+    ],
+    "path": "personas/06_biology_medicine/ibn_sina.md"
+  },
+  "li_shizhen": {
+    "name": "Li Shizhen",
+    "domain": "06_biology_medicine",
+    "archetype": "CompendiumTaxonomy",
+    "summary": "Field-verified material taxonomy correcting centuries of mislabeled specimens",
+    "tags": [
+      "materia-medica",
+      "taxonomy",
+      "field-verification",
+      "documentation"
+    ],
+    "path": "personas/06_biology_medicine/li_shizhen.md"
+  },
+  "hua_tuo": {
+    "name": "Hua Tuo",
+    "domain": "06_biology_medicine",
+    "archetype": "TargetedIntervention",
+    "summary": "Anesthetic preparation, decisive surgical excision, and preventative movement regimens",
+    "tags": [
+      "surgery",
+      "intervention",
+      "prevention",
+      "biomechanics"
+    ],
+    "path": "personas/06_biology_medicine/hua_tuo.md"
+  },
+  "sun_simiao": {
+    "name": "Sun Simiao",
+    "domain": "06_biology_medicine",
+    "archetype": "NutritionalEthics",
+    "summary": "Deficiency-disease prevention via diet and uncompromising practitioner responsibility",
+    "tags": [
+      "nutrition",
+      "ethics",
+      "preventative",
+      "diagnostics"
+    ],
+    "path": "personas/06_biology_medicine/sun_simiao.md"
+  },
+  "robert_koch": {
+    "name": "Robert Koch",
+    "domain": "06_biology_medicine",
+    "archetype": "KochPostulates",
+    "summary": "Four strict causal criteria linking a specific isolated pathogen to a specific disease state",
+    "tags": [
+      "root-cause",
+      "isolation",
+      "reproduction",
+      "causality"
+    ],
+    "path": "personas/06_biology_medicine/robert_koch.md"
+  },
+  "alexander_fleming": {
+    "name": "Alexander Fleming",
+    "domain": "06_biology_medicine",
+    "archetype": "SerendipitousAssay",
+    "summary": "Investigating anomalous contaminated petri dishes instead of discarding them",
+    "tags": [
+      "anomaly-detection",
+      "antibiotics",
+      "observation",
+      "discovery"
+    ],
+    "path": "personas/06_biology_medicine/alexander_fleming.md"
+  },
+  "rosalind_franklin": {
+    "name": "Rosalind Franklin",
+    "domain": "06_biology_medicine",
+    "archetype": "HydratedDiffraction",
+    "summary": "High-contrast A/B-form sample hydration control to resolve helical parameters",
+    "tags": [
+      "diffraction",
+      "sample-prep",
+      "dna",
+      "imaging"
+    ],
+    "path": "personas/06_biology_medicine/rosalind_franklin.md"
+  },
+  "barbara_mcclintock": {
+    "name": "Barbara McClintock",
+    "domain": "06_biology_medicine",
+    "archetype": "TransposableElements",
+    "summary": "Deep organismal familiarity revealing dynamic genome regulation and jumping elements",
+    "tags": [
+      "genetics",
+      "regulation",
+      "dynamic-systems",
+      "cytogenetics"
+    ],
+    "path": "personas/06_biology_medicine/barbara_mcclintock.md"
+  },
+  "tu_youyou": {
+    "name": "Tu Youyou",
+    "domain": "06_biology_medicine",
+    "archetype": "LowTempExtraction",
+    "summary": "Mining classical texts for cold-ether extraction cues to preserve heat-sensitive active structures",
+    "tags": [
+      "extraction",
+      "pharmacology",
+      "literature-mining",
+      "process-temp"
+    ],
+    "path": "personas/06_biology_medicine/tu_youyou.md"
+  },
+  "santiago_ramon_y_cajal": {
+    "name": "Santiago Ramón y Cajal",
+    "domain": "06_biology_medicine",
+    "archetype": "NeuronDoctrine",
+    "summary": "Sparse Golgi silver staining to trace discrete directional signal circuits in dense networks",
+    "tags": [
+      "neuroscience",
+      "circuit-tracing",
+      "visualization",
+      "networks"
+    ],
+    "path": "personas/06_biology_medicine/santiago_ramon_y_cajal.md"
+  },
+  "edward_jenner": {
+    "name": "Edward Jenner",
+    "domain": "06_biology_medicine",
+    "archetype": "CrossImmunity",
+    "summary": "Using benign proxy exposure (cowpox) to inoculate systems against catastrophic threats",
+    "tags": [
+      "inoculation",
+      "chaos-engineering",
+      "resilience",
+      "immunity"
+    ],
+    "path": "personas/06_biology_medicine/edward_jenner.md"
+  },
+  "jonas_salk": {
+    "name": "Jonas Salk",
+    "domain": "06_biology_medicine",
+    "archetype": "KilledVirusScale",
+    "summary": "Formalin-inactivated safe immunogens validated via massive double-blind field trials",
+    "tags": [
+      "validation",
+      "public-health",
+      "safety",
+      "scale"
+    ],
+    "path": "personas/06_biology_medicine/jonas_salk.md"
+  },
+  "socrates": {
+    "name": "Socrates",
+    "domain": "07_classical_philosophy",
+    "archetype": "ElenchusDialectic",
+    "summary": "Exposing hidden contradictions in confident claims through disciplined sequential questioning",
+    "tags": [
+      "questioning",
+      "assumptions",
+      "dialectic",
+      "clarity"
+    ],
+    "path": "personas/07_classical_philosophy/socrates.md"
+  },
+  "plato": {
+    "name": "Plato",
+    "domain": "07_classical_philosophy",
+    "archetype": "IdealForms",
+    "summary": "Separating invariant architectural ideals (Forms) from noisy physical implementations",
+    "tags": [
+      "abstraction",
+      "interfaces",
+      "ideals",
+      "ontology"
+    ],
+    "path": "personas/07_classical_philosophy/plato.md"
+  },
+  "aristotle": {
+    "name": "Aristotle",
+    "domain": "07_classical_philosophy",
+    "archetype": "FourCausesSyllogism",
+    "summary": "Analyzing material, formal, efficient, and final causes alongside categorical logic",
+    "tags": [
+      "taxonomy",
+      "causality",
+      "teleology",
+      "logic"
+    ],
+    "path": "personas/07_classical_philosophy/aristotle.md"
+  },
+  "confucius": {
+    "name": "Confucius",
+    "domain": "07_classical_philosophy",
+    "archetype": "RectificationOfNames",
+    "summary": "Aligning terminology strictly with actual roles and responsibilities (Zhengming)",
+    "tags": [
+      "naming",
+      "governance",
+      "standards",
+      "ethics"
+    ],
+    "path": "personas/07_classical_philosophy/confucius.md"
+  },
+  "mencius": {
+    "name": "Mencius",
+    "domain": "07_classical_philosophy",
+    "archetype": "RootCultivation",
+    "summary": "Aligning incentives with intrinsic human tendencies rather than coercive micromanagement",
+    "tags": [
+      "incentives",
+      "leadership",
+      "human-factors",
+      "alignment"
+    ],
+    "path": "personas/07_classical_philosophy/mencius.md"
+  },
+  "laozi": {
+    "name": "Laozi",
+    "domain": "07_classical_philosophy",
+    "archetype": "WuWeiSimplicity",
+    "summary": "Eliminating unnecessary intervention and designing systems that govern themselves naturally",
+    "tags": [
+      "minimalism",
+      "non-intervention",
+      "simplicity",
+      "flow"
+    ],
+    "path": "personas/07_classical_philosophy/laozi.md"
+  },
+  "zhuangzi": {
+    "name": "Zhuangzi",
+    "domain": "07_classical_philosophy",
+    "archetype": "FreeWandering",
+    "summary": "Perspective-shifting, Butcher Ding's grain-following skill, and the utility of 'useless' slack",
+    "tags": [
+      "reframing",
+      "burnout",
+      "slack",
+      "perspective"
+    ],
+    "path": "personas/07_classical_philosophy/zhuangzi.md"
+  },
+  "mozi": {
+    "name": "Mozi",
+    "domain": "07_classical_philosophy",
+    "archetype": "UtilitarianGauge",
+    "summary": "Testing every policy or design against three pragmatic gauges: historical precedent, empirical evidence, and practical utility",
+    "tags": [
+      "pragmatism",
+      "metrics",
+      "defense",
+      "utility"
+    ],
+    "path": "personas/07_classical_philosophy/mozi.md"
+  },
+  "xunzi": {
+    "name": "Xunzi",
+    "domain": "07_classical_philosophy",
+    "archetype": "RitualStandardization",
+    "summary": "Consciously engineering training protocols and standards to refine raw, chaotic inputs",
+    "tags": [
+      "standards",
+      "training",
+      "discipline",
+      "systems"
+    ],
+    "path": "personas/07_classical_philosophy/xunzi.md"
+  },
+  "wang_yangming": {
+    "name": "Wang Yangming",
+    "domain": "07_classical_philosophy",
+    "archetype": "UnityOfKnowledgeAction",
+    "summary": "Rejecting theoretical claims that have not been validated through immediate concrete action (Zhi Xing He Yi)",
+    "tags": [
+      "execution",
+      "action",
+      "validation",
+      "integrity"
+    ],
+    "path": "personas/07_classical_philosophy/wang_yangming.md"
+  },
+  "immanuel_kant": {
+    "name": "Immanuel Kant",
+    "domain": "07_classical_philosophy",
+    "archetype": "CritiqueOfReason",
+    "summary": "Auditing the boundary conditions of the cognitive/measurement apparatus itself before making claims",
+    "tags": [
+      "epistemology",
+      "boundaries",
+      "ethics",
+      "critique"
+    ],
+    "path": "personas/07_classical_philosophy/immanuel_kant.md"
+  },
+  "baruch_spinoza": {
+    "name": "Baruch Spinoza",
+    "domain": "07_classical_philosophy",
+    "archetype": "MoreGeometrico",
+    "summary": "Treating emotional and systemic perturbations with geometric objectivity",
+    "tags": [
+      "objectivity",
+      "determinism",
+      "axioms",
+      "resilience"
+    ],
+    "path": "personas/07_classical_philosophy/baruch_spinoza.md"
+  },
+  "david_hume": {
+    "name": "David Hume",
+    "domain": "07_classical_philosophy",
+    "archetype": "EmpiricalSkepticism",
+    "summary": "Guarding against the problem of induction and never mistaking constant conjunction for necessary causation",
+    "tags": [
+      "induction",
+      "skepticism",
+      "empiricism",
+      "causality"
+    ],
+    "path": "personas/07_classical_philosophy/david_hume.md"
+  },
+  "john_locke": {
+    "name": "John Locke",
+    "domain": "07_classical_philosophy",
+    "archetype": "TabulaRasaEmpiricism",
+    "summary": "Building knowledge strictly from sensory/empirical data and modular constitutional checks",
+    "tags": [
+      "empiricism",
+      "modular-governance",
+      "property",
+      "toleration"
+    ],
+    "path": "personas/07_classical_philosophy/john_locke.md"
+  },
+  "francis_bacon": {
+    "name": "Francis Bacon",
+    "domain": "07_classical_philosophy",
+    "archetype": "NovumOrganum",
+    "summary": "Clearing the four Idols of cognitive bias and using tables of presence, absence, and degree",
+    "tags": [
+      "scientific-method",
+      "biases",
+      "induction",
+      "tables"
+    ],
+    "path": "personas/07_classical_philosophy/francis_bacon.md"
+  },
+  "karl_popper": {
+    "name": "Karl Popper",
+    "domain": "07_classical_philosophy",
+    "archetype": "FalsifiabilityCriterion",
+    "summary": "Demanding risky predictions that can be empirically refuted rather than post-hoc confirmations",
+    "tags": [
+      "falsification",
+      "testing",
+      "epistemology",
+      "hypotheses"
+    ],
+    "path": "personas/07_classical_philosophy/karl_popper.md"
+  },
+  "thomas_kuhn": {
+    "name": "Thomas Kuhn",
+    "domain": "07_classical_philosophy",
+    "archetype": "ParadigmShift",
+    "summary": "Recognizing when accumulating anomalies require replacing the foundational paradigm rather than patching it",
+    "tags": [
+      "paradigm",
+      "anomalies",
+      "architecture",
+      "revolution"
+    ],
+    "path": "personas/07_classical_philosophy/thomas_kuhn.md"
+  },
+  "epictetus": {
+    "name": "Epictetus",
+    "domain": "07_classical_philosophy",
+    "archetype": "DichotomyOfControl",
+    "summary": "Strictly partitioning variables under your direct control from external noise",
+    "tags": [
+      "focus",
+      "stoicism",
+      "control",
+      "resilience"
+    ],
+    "path": "personas/07_classical_philosophy/epictetus.md"
+  },
+  "seneca": {
+    "name": "Seneca",
+    "domain": "07_classical_philosophy",
+    "archetype": "PremeditatioMalorum",
+    "summary": "Pre-mortem failure rehearsal and protecting scarce time from trivial busywork",
+    "tags": [
+      "premortem",
+      "time-management",
+      "risk",
+      "stoicism"
+    ],
+    "path": "personas/07_classical_philosophy/seneca.md"
+  },
+  "nagarjuna": {
+    "name": "Nagarjuna",
+    "domain": "07_classical_philosophy",
+    "archetype": "TetralemmaMiddleWay",
+    "summary": "Dismantling rigid binary extremes via dependent co-arising and four-cornered negation",
+    "tags": [
+      "deconstruction",
+      "interdependence",
+      "paradox",
+      "dialectic"
+    ],
+    "path": "personas/07_classical_philosophy/nagarjuna.md"
+  },
+  "sun_tzu": {
+    "name": "Sun Tzu",
+    "domain": "08_strategy_statecraft",
+    "archetype": "OrthodoxAndSurprise",
+    "summary": "Winning through asymmetric positioning (Shi), intelligence, and subduing friction without costly attrition",
+    "tags": [
+      "strategy",
+      "asymmetry",
+      "intelligence",
+      "positioning"
+    ],
+    "path": "personas/08_strategy_statecraft/sun_tzu.md"
+  },
+  "zhuge_liang": {
+    "name": "Zhuge Liang",
+    "domain": "08_strategy_statecraft",
+    "archetype": "LongzhongPreparation",
+    "summary": "Assessing the whole board first, building the logistical base, forging alliances, and advising candidly",
+    "tags": [
+      "roadmap",
+      "logistics",
+      "alliances",
+      "long-horizon"
+    ],
+    "path": "personas/08_strategy_statecraft/zhuge_liang.md"
+  },
+  "marcus_aurelius": {
+    "name": "Marcus Aurelius",
+    "domain": "08_strategy_statecraft",
+    "archetype": "ImperialMeditations",
+    "summary": "Objective self-audit under crisis and turning obstacles directly into operational fuel",
+    "tags": [
+      "leadership",
+      "crisis",
+      "self-audit",
+      "resilience"
+    ],
+    "path": "personas/08_strategy_statecraft/marcus_aurelius.md"
+  },
+  "pericles": {
+    "name": "Pericles",
+    "domain": "08_strategy_statecraft",
+    "archetype": "CivicCoalition",
+    "summary": "Aligning public transparency, asymmetric naval/core strengths, and strategic patience",
+    "tags": [
+      "coalition",
+      "communication",
+      "core-strength",
+      "strategy"
+    ],
+    "path": "personas/08_strategy_statecraft/pericles.md"
+  },
+  "cicero": {
+    "name": "Cicero",
+    "domain": "08_strategy_statecraft",
+    "archetype": "ForensicRhetoric",
+    "summary": "Structuring persuasive arguments (inventio, dispositio, elocutio) to build institutional consensus",
+    "tags": [
+      "rhetoric",
+      "persuasion",
+      "writing",
+      "governance"
+    ],
+    "path": "personas/08_strategy_statecraft/cicero.md"
+  },
+  "benjamin_franklin": {
+    "name": "Benjamin Franklin",
+    "domain": "08_strategy_statecraft",
+    "archetype": "PragmaticLedger",
+    "summary": "Moral/Prudential algebra (weighted pro-con ledgers), civic networks, and practical experimentation",
+    "tags": [
+      "decision-ledger",
+      "diplomacy",
+      "habits",
+      "pragmatism"
+    ],
+    "path": "personas/08_strategy_statecraft/benjamin_franklin.md"
+  },
+  "george_washington": {
+    "name": "George Washington",
+    "domain": "08_strategy_statecraft",
+    "archetype": "FabianPreservation",
+    "summary": "Preserving the core team/institution survival over flashy tactical gambles and setting voluntary power limits",
+    "tags": [
+      "sustainability",
+      "institutions",
+      "retreat-strategy",
+      "governance"
+    ],
+    "path": "personas/08_strategy_statecraft/george_washington.md"
+  },
+  "abraham_lincoln": {
+    "name": "Abraham Lincoln",
+    "domain": "08_strategy_statecraft",
+    "archetype": "TeamOfRivals",
+    "summary": "Integrating strong-willed opposing experts into one cabinet while holding an unshakeable north star",
+    "tags": [
+      "team-building",
+      "conflict-resolution",
+      "vision",
+      "communication"
+    ],
+    "path": "personas/08_strategy_statecraft/abraham_lincoln.md"
+  },
+  "li_shimin": {
+    "name": "Emperor Taizong (Li Shimin)",
+    "domain": "08_strategy_statecraft",
+    "archetype": "JianyanMirror",
+    "summary": "Institutionalizing harsh, candid dissent (Wei Zheng mirror) to prevent leader blind spots",
+    "tags": [
+      "feedback",
+      "red-teaming",
+      "governance",
+      "audit"
+    ],
+    "path": "personas/08_strategy_statecraft/li_shimin.md"
+  },
+  "fan_zhongyan": {
+    "name": "Fan Zhongyan",
+    "domain": "08_strategy_statecraft",
+    "archetype": "FirstToWorry",
+    "summary": "Proactive institutional reform and prioritizing system resilience before personal reward",
+    "tags": [
+      "reform",
+      "stewardship",
+      "institutions",
+      "ethics"
+    ],
+    "path": "personas/08_strategy_statecraft/fan_zhongyan.md"
+  },
+  "wang_anshi": {
+    "name": "Wang Anshi",
+    "domain": "08_strategy_statecraft",
+    "archetype": "FiscalModernization",
+    "summary": "Systemic structural reform of supply, credit, and talent evaluation routines",
+    "tags": [
+      "reform",
+      "operations",
+      "incentives",
+      "policy"
+    ],
+    "path": "personas/08_strategy_statecraft/wang_anshi.md"
+  },
+  "su_qin": {
+    "name": "Su Qin",
+    "domain": "08_strategy_statecraft",
+    "archetype": "VerticalAlliance",
+    "summary": "Aligning smaller independent actors into a coordinated coalition by mapping each node's self-interest",
+    "tags": [
+      "negotiation",
+      "alliances",
+      "incentive-alignment",
+      "coalition"
+    ],
+    "path": "personas/08_strategy_statecraft/su_qin.md"
+  },
+  "kautilya": {
+    "name": "Kautilya (Chanakya)",
+    "domain": "08_strategy_statecraft",
+    "archetype": "ArthashastraRealism",
+    "summary": "Mandala network analysis and four upayas (conciliation, incentives, division, force)",
+    "tags": [
+      "realpolitik",
+      "network-strategy",
+      "governance",
+      "risk"
+    ],
+    "path": "personas/08_strategy_statecraft/kautilya.md"
+  },
+  "scipio_africanus": {
+    "name": "Scipio Africanus",
+    "domain": "08_strategy_statecraft",
+    "archetype": "IndirectCenterGravity",
+    "summary": "Attacking the competitor's logistical supply base (New Carthage) rather than their fortified front",
+    "tags": [
+      "indirect-approach",
+      "supply-chain",
+      "maneuver",
+      "tactics"
+    ],
+    "path": "personas/08_strategy_statecraft/scipio_africanus.md"
+  },
+  "carl_von_clausewitz": {
+    "name": "Carl von Clausewitz",
+    "domain": "08_strategy_statecraft",
+    "archetype": "CenterOfGravityFriction",
+    "summary": "Accounting for real-world friction, fog of uncertainty, and targeting the single Center of Gravity",
+    "tags": [
+      "friction",
+      "uncertainty",
+      "center-of-gravity",
+      "strategy"
+    ],
+    "path": "personas/08_strategy_statecraft/carl_von_clausewitz.md"
+  },
+  "hugo_grotius": {
+    "name": "Hugo Grotius",
+    "domain": "08_strategy_statecraft",
+    "archetype": "SharedCommonsLaw",
+    "summary": "Establishing binding rules of the commons and open-sea interoperability protocols",
+    "tags": [
+      "protocols",
+      "commons",
+      "contracts",
+      "law"
+    ],
+    "path": "personas/08_strategy_statecraft/hugo_grotius.md"
+  },
+  "montesquieu": {
+    "name": "Montesquieu",
+    "domain": "08_strategy_statecraft",
+    "archetype": "SeparationOfPowers",
+    "summary": "Preventing single-point abuse by splitting execution, validation, and adjudication into independent checks",
+    "tags": [
+      "security-architecture",
+      "checks-and-balances",
+      "governance",
+      "isolation"
+    ],
+    "path": "personas/08_strategy_statecraft/montesquieu.md"
+  },
+  "alexander_hamilton": {
+    "name": "Alexander Hamilton",
+    "domain": "08_strategy_statecraft",
+    "archetype": "CreditInfrastructure",
+    "summary": "Building foundational institutional credit, standardized assumption of technical debt, and Federalist clarity",
+    "tags": [
+      "infrastructure",
+      "technical-debt",
+      "finance",
+      "systems"
+    ],
+    "path": "personas/08_strategy_statecraft/alexander_hamilton.md"
+  },
+  "florence_nightingale": {
+    "name": "Florence Nightingale",
+    "domain": "08_strategy_statecraft",
+    "archetype": "PolarAreaSanitation",
+    "summary": "Using visual statistical graphics (coxcomb charts) and strict environmental hygiene to slash mortality",
+    "tags": [
+      "data-visualization",
+      "sanitation",
+      "metrics",
+      "operations"
+    ],
+    "path": "personas/08_strategy_statecraft/florence_nightingale.md"
+  },
+  "taiichi_ohno": {
+    "name": "Taiichi Ohno",
+    "domain": "08_strategy_statecraft",
+    "archetype": "ToyotaProductionSystem",
+    "summary": "Five Whys root-cause tracing, pull-based Kanban flow, and eliminating the 7 forms of waste (Muda)",
+    "tags": [
+      "lean",
+      "five-whys",
+      "kanban",
+      "waste-reduction"
+    ],
+    "path": "personas/08_strategy_statecraft/taiichi_ohno.md"
+  },
+  "adam_smith": {
+    "name": "Adam Smith",
+    "domain": "09_economics_sociology",
+    "archetype": "DivisionOfLabor",
+    "summary": "Specialization throughput gains and emergent coordination via decentralized price signals",
+    "tags": [
+      "specialization",
+      "markets",
+      "incentives",
+      "throughput"
+    ],
+    "path": "personas/09_economics_sociology/adam_smith.md"
+  },
+  "john_maynard_keynes": {
+    "name": "John Maynard Keynes",
+    "domain": "09_economics_sociology",
+    "archetype": "AggregateDemandBuffer",
+    "summary": "Counter-cyclical buffer injection when liquidity traps stall decentralized coordination",
+    "tags": [
+      "macro",
+      "buffers",
+      "liquidity",
+      "risk"
+    ],
+    "path": "personas/09_economics_sociology/john_maynard_keynes.md"
+  },
+  "ibn_khaldun": {
+    "name": "Ibn Khaldun",
+    "domain": "09_economics_sociology",
+    "archetype": "AsabiyyahCycles",
+    "summary": "Analyzing group cohesion (Asabiyyah) lifecycles from lean frontier hunger to bureaucratic decay",
+    "tags": [
+      "organizational-culture",
+      "cycles",
+      "cohesion",
+      "sociology"
+    ],
+    "path": "personas/09_economics_sociology/ibn_khaldun.md"
+  },
+  "herbert_simon": {
+    "name": "Herbert A. Simon",
+    "domain": "09_economics_sociology",
+    "archetype": "BoundedRationality",
+    "summary": "Satisficing under finite compute/attention budgets and designing near-decomposable hierarchies",
+    "tags": [
+      "satisficing",
+      "modularity",
+      "attention",
+      "decision-science"
+    ],
+    "path": "personas/09_economics_sociology/herbert_simon.md"
+  },
+  "joseph_schumpeter": {
+    "name": "Joseph Schumpeter",
+    "domain": "09_economics_sociology",
+    "archetype": "CreativeDestruction",
+    "summary": "Recombining innovations that obsolete legacy equilibria rather than incrementally optimizing them",
+    "tags": [
+      "innovation",
+      "disruption",
+      "entrepreneurship",
+      "strategy"
+    ],
+    "path": "personas/09_economics_sociology/joseph_schumpeter.md"
+  },
+  "david_ricardo": {
+    "name": "David Ricardo",
+    "domain": "09_economics_sociology",
+    "archetype": "ComparativeAdvantage",
+    "summary": "Delegating tasks based on lowest opportunity cost even when one node is faster at everything",
+    "tags": [
+      "delegation",
+      "opportunity-cost",
+      "allocation",
+      "trade"
+    ],
+    "path": "personas/09_economics_sociology/david_ricardo.md"
+  },
+  "leon_walras": {
+    "name": "Léon Walras",
+    "domain": "09_economics_sociology",
+    "archetype": "GeneralEquilibrium",
+    "summary": "Simultaneous multi-market clearing equations and iterative tâtonnement price discovery",
+    "tags": [
+      "equilibrium",
+      "Resource-allocation",
+      "coupled-systems",
+      "modeling"
+    ],
+    "path": "personas/09_economics_sociology/leon_walras.md"
+  },
+  "vilfredo_pareto": {
+    "name": "Vilfredo Pareto",
+    "domain": "09_economics_sociology",
+    "archetype": "Pareto8020",
+    "summary": "Power-law 80/20 bottleneck identification and multi-objective Pareto frontier optimization",
+    "tags": [
+      "80-20",
+      "pareto-frontier",
+      "prioritization",
+      "optimization"
+    ],
+    "path": "personas/09_economics_sociology/vilfredo_pareto.md"
+  },
+  "ronald_coase": {
+    "name": "Ronald Coase",
+    "domain": "09_economics_sociology",
+    "archetype": "TransactionCostBoundary",
+    "summary": "Drawing the boundary between internal build vs. external API/market buy via transaction costs",
+    "tags": [
+      "build-vs-buy",
+      "architecture",
+      "boundaries",
+      "contracts"
+    ],
+    "path": "personas/09_economics_sociology/ronald_coase.md"
+  },
+  "elinor_ostrom": {
+    "name": "Elinor Ostrom",
+    "domain": "09_economics_sociology",
+    "archetype": "PolycentricCommons",
+    "summary": "Eight design principles for managing shared resource pools without tragedy of the commons",
+    "tags": [
+      "shared-resources",
+      "rate-limiting",
+      "governance",
+      "commons"
+    ],
+    "path": "personas/09_economics_sociology/elinor_ostrom.md"
+  },
+  "kenneth_arrow": {
+    "name": "Kenneth Arrow",
+    "domain": "09_economics_sociology",
+    "archetype": "ImpossibilityAggregation",
+    "summary": "Recognizing formal limits when aggregating ranked preferences and pricing information asymmetry",
+    "tags": [
+      "voting",
+      "ranking",
+      "asymmetric-information",
+      "welfare"
+    ],
+    "path": "personas/09_economics_sociology/kenneth_arrow.md"
+  },
+  "daniel_kahneman": {
+    "name": "Daniel Kahneman",
+    "domain": "09_economics_sociology",
+    "archetype": "System1System2",
+    "summary": "Mitigating cognitive anchoring, loss aversion, and planning fallacy via outside-view base rates",
+    "tags": [
+      "biases",
+      "forecasting",
+      "base-rates",
+      "decision"
+    ],
+    "path": "personas/09_economics_sociology/daniel_kahneman.md"
+  },
+  "amos_tversky": {
+    "name": "Amos Tversky",
+    "domain": "09_economics_sociology",
+    "archetype": "DiagnosticHeuristics",
+    "summary": "Exposing representativeness and availability distortions in probabilistic judgments",
+    "tags": [
+      "heuristics",
+      "probability",
+      "diagnostics",
+      "calibration"
+    ],
+    "path": "personas/09_economics_sociology/amos_tversky.md"
+  },
+  "max_weber": {
+    "name": "Max Weber",
+    "domain": "09_economics_sociology",
+    "archetype": "IdealTypeBureaucracy",
+    "summary": "Analyzing rational-legal authority versus charismatic leadership and iron-cage procedural lock-in",
+    "tags": [
+      "organizations",
+      "process",
+      "governance",
+      "sociology"
+    ],
+    "path": "personas/09_economics_sociology/max_weber.md"
+  },
+  "guan_zhong": {
+    "name": "Guan Zhong",
+    "domain": "09_economics_sociology",
+    "archetype": "LightHeavyCounter",
+    "summary": "Stabilizing essential resource reservoirs and standardizing modular administrative units",
+    "tags": [
+      "resource-management",
+      "standards",
+      "economics",
+      "stability"
+    ],
+    "path": "personas/09_economics_sociology/guan_zhong.md"
+  },
+  "sima_qian": {
+    "name": "Sima Qian",
+    "domain": "09_economics_sociology",
+    "archetype": "ShijiCrossVerification",
+    "summary": "Multi-perspective historical matrices (annals, tables, treatises, biographies) that separate fact from commentary",
+    "tags": [
+      "documentation",
+      "history",
+      "data-tables",
+      "synthesis"
+    ],
+    "path": "personas/09_economics_sociology/sima_qian.md"
+  },
+  "luca_pacioli": {
+    "name": "Luca Pacioli",
+    "domain": "09_economics_sociology",
+    "archetype": "DoubleEntryLedger",
+    "summary": "Immutable debit/credit conservation so every state change balances to zero error",
+    "tags": [
+      "accounting",
+      "ledgers",
+      "audit",
+      "invariants"
+    ],
+    "path": "personas/09_economics_sociology/luca_pacioli.md"
+  },
+  "fernand_braudel": {
+    "name": "Fernand Braudel",
+    "domain": "09_economics_sociology",
+    "archetype": "LongueDuree",
+    "summary": "Separating surface event noise from medium-term cycles and deep structural constraints",
+    "tags": [
+      "long-horizon",
+      "trends",
+      "structure",
+      "analysis"
+    ],
+    "path": "personas/09_economics_sociology/fernand_braudel.md"
+  },
+  "w_edwards_deming": {
+    "name": "W. Edwards Deming",
+    "domain": "09_economics_sociology",
+    "archetype": "StatisticalProcessControl",
+    "summary": "PDCA loops, distinguishing common-cause noise from special-cause faults, and fixing the system (94%) not blaming workers",
+    "tags": [
+      "quality",
+      "spc",
+      "pdca",
+      "metrics"
+    ],
+    "path": "personas/09_economics_sociology/w_edwards_deming.md"
+  },
+  "peter_drucker": {
+    "name": "Peter Drucker",
+    "domain": "09_economics_sociology",
+    "archetype": "ManagementByObjectives",
+    "summary": "Focusing knowledge workers on effective outputs and systematically abandoning obsolete projects",
+    "tags": [
+      "okrs",
+      "prioritization",
+      "knowledge-work",
+      "management"
+    ],
+    "path": "personas/09_economics_sociology/peter_drucker.md"
+  },
+  "homer": {
+    "name": "Homer",
+    "domain": "10_literature_arts_design",
+    "archetype": "EpicInMediasRes",
+    "summary": "Launching directly into the decisive tension and anchoring complex narratives with memorable epithets",
+    "tags": [
+      "storytelling",
+      "narrative",
+      "structure",
+      "opening"
+    ],
+    "path": "personas/10_literature_arts_design/homer.md"
+  },
+  "william_shakespeare": {
+    "name": "William Shakespeare",
+    "domain": "10_literature_arts_design",
+    "archetype": "PolyphonicCharacter",
+    "summary": "Giving every competing perspective its strongest possible voice and pacing tension via comic/tragic contrast",
+    "tags": [
+      "dialogue",
+      "empathy",
+      "dramatic-structure",
+      "writing"
+    ],
+    "path": "personas/10_literature_arts_design/william_shakespeare.md"
+  },
+  "dante_alighieri": {
+    "name": "Dante Alighieri",
+    "domain": "10_literature_arts_design",
+    "archetype": "ArchitectonicTriad",
+    "summary": "Designing symmetrical, three-part structural frameworks voiced in accessible vernacular",
+    "tags": [
+      "structure",
+      "symmetry",
+      "worldbuilding",
+      "clarity"
+    ],
+    "path": "personas/10_literature_arts_design/dante_alighieri.md"
+  },
+  "johann_von_goethe": {
+    "name": "Johann Wolfgang von Goethe",
+    "domain": "10_literature_arts_design",
+    "archetype": "MorphologicalUrform",
+    "summary": "Bridging poetic intuition with natural morphology to spot the underlying archetype (Urphänomen)",
+    "tags": [
+      "morphology",
+      "synthesis",
+      "color-theory",
+      "holism"
+    ],
+    "path": "personas/10_literature_arts_design/johann_von_goethe.md"
+  },
+  "su_shi": {
+    "name": "Su Shi (Su Dongpo)",
+    "domain": "10_literature_arts_design",
+    "archetype": "HaofangResilience",
+    "summary": "Transforming exile and resource scarcity into expansive artistic clarity and practical public works",
+    "tags": [
+      "resilience",
+      "writing",
+      "adaptability",
+      "creativity"
+    ],
+    "path": "personas/10_literature_arts_design/su_shi.md"
+  },
+  "li_bai": {
+    "name": "Li Bai",
+    "domain": "10_literature_arts_design",
+    "archetype": "UnconstrainedImagery",
+    "summary": "Breaking rigid formal constraints with bold, high-contrast associative leaps",
+    "tags": [
+      "brainstorming",
+      "imagery",
+      "creativity",
+      "boldness"
+    ],
+    "path": "personas/10_literature_arts_design/li_bai.md"
+  },
+  "du_fu": {
+    "name": "Du Fu",
+    "domain": "10_literature_arts_design",
+    "archetype": "LushiPrecision",
+    "summary": "Packing maximum historical and emotional density into strictly balanced parallel couplets",
+    "tags": [
+      "precision-writing",
+      "compression",
+      "craft",
+      "realism"
+    ],
+    "path": "personas/10_literature_arts_design/du_fu.md"
+  },
+  "sima_guang": {
+    "name": "Sima Guang",
+    "domain": "10_literature_arts_design",
+    "archetype": "ComprehensiveMirror",
+    "summary": "Chronological cause-and-effect case studies compiled specifically to warn decision-makers of failure modes",
+    "tags": [
+      "case-studies",
+      "postmortem",
+      "chronology",
+      "governance"
+    ],
+    "path": "personas/10_literature_arts_design/sima_guang.md"
+  },
+  "cao_xueqin": {
+    "name": "Cao Xueqin",
+    "domain": "10_literature_arts_design",
+    "archetype": "GrandViewMicrocosm",
+    "summary": "Foreshadowing systemic decline through subtle domestic details and multi-layered character networks",
+    "tags": [
+      "systems-narrative",
+      "detail",
+      "foreshadowing",
+      "design"
+    ],
+    "path": "personas/10_literature_arts_design/cao_xueqin.md"
+  },
+  "lu_xun": {
+    "name": "Lu Xun",
+    "domain": "10_literature_arts_design",
+    "archetype": "DiagnosticEssay",
+    "summary": "Surgical, ironical brevity that exposes cultural self-deception ('Ah Q' syndrome)",
+    "tags": [
+      "critique",
+      "conciseness",
+      "cultural-audit",
+      "essay"
+    ],
+    "path": "personas/10_literature_arts_design/lu_xun.md"
+  },
+  "leo_tolstoy": {
+    "name": "Leo Tolstoy",
+    "domain": "10_literature_arts_design",
+    "archetype": "DistributedHistory",
+    "summary": "Showing how grand outcomes emerge from the infinitesimal actions of thousands of front-line participants",
+    "tags": [
+      "emergence",
+      "realism",
+      "complex-systems",
+      "narrative"
+    ],
+    "path": "personas/10_literature_arts_design/leo_tolstoy.md"
+  },
+  "fyodor_dostoevsky": {
+    "name": "Fyodor Dostoevsky",
+    "domain": "10_literature_arts_design",
+    "archetype": "IdeologicalStressTest",
+    "summary": "Pushing philosophical premises to their extreme psychological breaking point in polyphonic debate",
+    "tags": [
+      "stress-test",
+      "psychology",
+      "debate",
+      "red-team"
+    ],
+    "path": "personas/10_literature_arts_design/fyodor_dostoevsky.md"
+  },
+  "miguel_de_cervantes": {
+    "name": "Miguel de Cervantes",
+    "domain": "10_literature_arts_design",
+    "archetype": "MetafictionalFoil",
+    "summary": "Pairing idealistic vision (Quixote) with grounded pragmatic reality (Sancho) to test ideas",
+    "tags": [
+      "foil",
+      "pragmatism-vs-idealism",
+      "satire",
+      "perspective"
+    ],
+    "path": "personas/10_literature_arts_design/miguel_de_cervantes.md"
+  },
+  "rabindranath_tagore": {
+    "name": "Rabindranath Tagore",
+    "domain": "10_literature_arts_design",
+    "archetype": "CrossCulturalLyric",
+    "summary": "Harmonizing local roots with universal humanistic synthesis",
+    "tags": [
+      "synthesis",
+      "education",
+      "lyricism",
+      "cross-cultural"
+    ],
+    "path": "personas/10_literature_arts_design/rabindranath_tagore.md"
+  },
+  "murasaki_shikibu": {
+    "name": "Murasaki Shikibu",
+    "domain": "10_literature_arts_design",
+    "archetype": "MonoNoAwareInterior",
+    "summary": "Subtle psychological observation and tracking long-term emotional/interpersonal consequences",
+    "tags": [
+      "user-empathy",
+      "psychology",
+      "nuance",
+      "observation"
+    ],
+    "path": "personas/10_literature_arts_design/murasaki_shikibu.md"
+  },
+  "walter_gropius": {
+    "name": "Walter Gropius",
+    "domain": "10_literature_arts_design",
+    "archetype": "BauhausFormFunction",
+    "summary": "Uniting craft and industrial mass production while stripping away non-functional ornament",
+    "tags": [
+      "ui-ux",
+      "industrial-design",
+      "minimalism",
+      "bauhaus"
+    ],
+    "path": "personas/10_literature_arts_design/walter_gropius.md"
+  },
+  "buckminster_fuller": {
+    "name": "Buckminster Fuller",
+    "domain": "10_literature_arts_design",
+    "archetype": "SynergeticTensegrity",
+    "summary": "Doing more with less (ephemeralization), geodesic tensegrity, and trim-tab leverage points",
+    "tags": [
+      "tensegrity",
+      "leverage",
+      "sustainability",
+      "systems-design"
+    ],
+    "path": "personas/10_literature_arts_design/buckminster_fuller.md"
+  },
+  "vitruvius": {
+    "name": "Vitruvius",
+    "domain": "10_literature_arts_design",
+    "archetype": "FirmitasUtilitasVenustas",
+    "summary": "Evaluating every built artifact against three simultaneous pillars: durability, utility, and beauty",
+    "tags": [
+      "architecture",
+      "quality-triad",
+      "standards",
+      "design"
+    ],
+    "path": "personas/10_literature_arts_design/vitruvius.md"
+  },
+  "song_yingxing": {
+    "name": "Song Yingxing",
+    "domain": "10_literature_arts_design",
+    "archetype": "TiangongKaiwu",
+    "summary": "Documenting end-to-end agricultural and industrial workflows with quantitative yield ratios and process diagrams",
+    "tags": [
+      "technical-writing",
+      "workflows",
+      "process-docs",
+      "manufacturing"
+    ],
+    "path": "personas/10_literature_arts_design/song_yingxing.md"
+  },
+  "shen_kuo": {
+    "name": "Shen Kuo",
+    "domain": "10_literature_arts_design",
+    "archetype": "MengxiBrushTalks",
+    "summary": "Empirical field notes across optics, magnetic declination, stratigraphy, and movable type",
+    "tags": [
+      "polymath",
+      "field-notes",
+      "optics",
+      "geology"
+    ],
+    "path": "personas/10_literature_arts_design/shen_kuo.md"
+  }
+}
