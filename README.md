@@ -15,7 +15,7 @@ Unlike persona repositories that pollute your agent workspace with dozens of sep
 
 - **One-Time, Single-Skill Installation:** Exposes just **1** gateway skill (`greatest-persons`) to your AI coding assistant (Antigravity, Claude Code, Cursor, Gemini CLI, Codex, or custom harnesses) while indexing all 200 figures in [`config/registry.json`](config/registry.json). Zero context bloat until invoked.
 - **Council + Worker Dual Execution:**
-  - **Council Mode (Comment & Suggest):** Convene 3–4 cross-disciplinary minds in parallel (e.g., *Richard Feynman + Zhang Heng + Zhuge Liang*) to critique an architecture, experimental setup, debugging plan, or strategic roadmap.
+  - **Council Mode (Comment & Suggest):** Convene 3–4 cross-disciplinary minds in parallel (e.g., *Richard Feynman + Adam Smith + Shannon + Einstein*) to critique an architecture, experimental setup, debugging plan, or strategic roadmap.
   - **Worker Mode (Execute for Host):** Hand the keyboard to a single persona (e.g., *Claude Shannon*, *Qian Xuesen*, or *Kelly Johnson*) to directly write code, build a minimal verification script, design a closed-loop controller, or draft technical documentation.
 - **200 Textbook Canon Figures:** Focused strictly on time-tested scientific, mathematical, engineering, diagnostic, and classical strategic methodologies—no buzzwords, no cargo-cult templates.
 
